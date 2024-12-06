@@ -1,4 +1,4 @@
-# Schedule
+# Notes
 
 ## Theoretical Backgrounds
 
