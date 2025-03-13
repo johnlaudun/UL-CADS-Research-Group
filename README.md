@@ -1,6 +1,6 @@
-# Independent Study in Text Analytics
+# CADS Research Group
 
-Welcome to the repository for this independent study in text analytics. This course is intended for graduates in the humanities taking their first steps in text analytics, and so it is focused on those places where, in my experience, newcomers rush past and then later find themselves stuck. So, yes, this study begins with what will strike some as too much time spent on data types. The reasoning behind this is that there are a lot of powerful libraries, or modules, available for researchers, and while in many cases those modules return results in seemingly custom data structures -- they often come with fancy names! -- underneath the structure is simple, for example, a list of tuples. (This is an incredibly common data structure.) Understanding what those two data types are and how to iterate through them is central often to getting better results out of any code you are assembling.
+The Corpus-Assisted Discourse Studies research group grew out of an independent study with a particular set of students, and so the first set of materials was shaped by their interests and abilities. 
 
-This repository has its beginnings with a particular set of students, and so this initial iteration will itself be shaped by their interests and abilities. For more information, please feel to contact the lead author, John Laudun (you can find him on the internet), but it could be your question is better addressed by one of my co-authors.
+For more information, please feel to contact the lead author, John Laudun (you can find him on the internet), but it could be your question is better addressed by one of my co-authors.
 
